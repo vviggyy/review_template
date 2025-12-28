@@ -1,0 +1,14 @@
+OVERALL: x/10 
+
+TASTE: x/10
+SERVICE: x/10
+ATMOSPHERE: x/10
+
+WAIT TIME: Low/Med/High
+SEATING AVAILABILITY: Low/Med/High
+PRICE/QUANTITY RATIO: Low/Med/High
+
+MUST-TRY ITEMS: 
+ADDITIONAL COMMENTS:
+
+(find this copyable template at review.viggy.me)
